@@ -9,8 +9,8 @@
 # this is zaid
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="images/archer2drone.PNG">
+ <source media="(prefers-color-scheme: light)" srcset="images/archer2drone.PNG">
  <img alt="YOUR-ALT-TEXT" src="images/archer2drone.PNG">
 </picture>
 
