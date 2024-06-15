@@ -18,8 +18,7 @@
 ## - 🚁 DRONES
 #### [EYANTRA-19](https://github.com/atomrobotics/EYANTRA-19) , PID based autonomous drone navigation " ROSpy based control system for a quadcopter to transverse  autonomously"
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="images/archer2drone.PNG">
- <source media="(prefers-color-scheme: light)" srcset="images/archer2drone.PNG">
+ <source srcset="images/archer2drone.PNG">
  <img alt="YOUR-ALT-TEXT" src="images/archer2drone.PNG">
 </picture>
 
