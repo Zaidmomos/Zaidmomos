@@ -1,15 +1,3 @@
-## hello 👋
-# hi
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="120" height="120">
-</picture>
-
-# this is zaid
-
-
-
 # "ATOM ROBOTICS" SPECIAL TEAM FOR ROBOTICS VIT CHENNAI 
 
 # Our Projects
@@ -19,7 +7,7 @@
 #### [EYANTRA-19](https://github.com/atomrobotics/EYANTRA-19) , PID based autonomous drone navigation " ROSpy based control system for a quadcopter to transverse  autonomously"
 <picture>
  <source srcset="images/archer2drone.PNG">
- <img alt="YOUR-ALT-TEXT" src="images/archer2drone.PNG">
+ <img align="right" alt="YOUR-ALT-TEXT" src="images/archer2drone.PNG">
 </picture>
 
 #### [ARDUINO SIMULATOR FOR DRONE](https://github.com/JustTheCoolest/Atom_Arduino_Drone_Simulator) ,  simulates the programming environment for what would be the drone's onboard computer
