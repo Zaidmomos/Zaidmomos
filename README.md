@@ -4,7 +4,7 @@
  ### **❗❗ the names of the project are linked with a hyper-text that leads you to the project repositories❗❗**
  
 ## - 🚁 DRONES
-#### [EYANTRA-19](https://github.com/atomrobotics/EYANTRA-19) , PID based autonomous drone navigation " ROSpy based control system for a quadcopter to transverse  autonomously"
+#### [EYANTRA-19](https://github.com/atomrobotics/EYANTRA-19) , PID based autonomous drone navigation " </br> ROSpy based control system for a quadcopter to transverse  autonomously"
 <picture>
  <source srcset="images/archer2drone.PNG">
  <img align="right" alt="YOUR-ALT-TEXT" src="images/archer2drone.PNG">
